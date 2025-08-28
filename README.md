@@ -6,16 +6,7 @@ Este projeto foi desenvolvido como exercício da disciplina **Programação para
 
 - **HTML5**
 - **CSS3**
-- **JavaScript (ES6+)**
-
-## Estrutura do Projeto
-Prog.Internet/
-│
-├── index.html          # Estrutura do formulário de cadastro
-├── style.css           # Estilos visuais e layout
-├── script.js           # Lógica de validação e cálculo do IR
-├── mostrar.png         # Imagem ilustrativa do formulário
-└── esconder.png        # Imagem ilustrativa do formulário
+- **JavaScript**
 
 
 ## Como Executar
